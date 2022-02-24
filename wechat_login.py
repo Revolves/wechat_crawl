@@ -7,6 +7,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.common.keys import Keys
+from utils import delete_empty_file
 
 # 公众号账号
 user_name = '2625538949@qq.com'
@@ -185,3 +186,4 @@ if __name__ == '__main__':
                 crawl_record[goal] = status
         crf = open(crawl_record_file, 'w', encoding='utf-8')
         json.dump(crawl_record, crf, indent=4, ensure_ascii=False)
+    delete_empty_file('url_file')

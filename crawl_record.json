@@ -1,6 +1,6 @@
 {
     "空军之翼": {
-        "page": 40,
+        "page": 62,
         "finish": false
     },
     "北国防务": {
@@ -40,7 +40,7 @@
         "page": 1
     },
     "军武次位面": {
-        "page": 311,
-        "finish": false
+        "page": 454,
+        "finish": true
     }
 }
