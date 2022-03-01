@@ -1,23 +1,23 @@
 {
     "空军之翼": {
-        "page": 62,
-        "finish": false
+        "page": 182,
+        "finish": true
     },
     "北国防务": {
-        "page": 1,
-        "finish": false
+        "page": 164,
+        "finish": true
     },
     "雷曼军事现代舰船": {
-        "finish": false,
-        "page": 1
+        "finish": true,
+        "page": 89
     },
     "崎峻战史": {
-        "finish": false,
-        "page": 1
+        "finish": true,
+        "page": 122
     },
     "讲武堂": {
         "finish": false,
-        "page": 1
+        "page": 144
     },
     "军报记者": {
         "finish": false,

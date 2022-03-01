@@ -1,0 +1,4 @@
+pywin32==303
+requests==2.27.1
+selenium==3.141.0
+wechatarticles==0.7.0

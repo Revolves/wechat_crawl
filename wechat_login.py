@@ -73,7 +73,7 @@ def scan_qrcode(driver):
         pass
 
 def preoption(driver):
-    btn1 = driver.find_element_by_xpath('//*[@id="app"]/div[2]/div[3]/div[2]/div/div[1]')
+    btn1 = driver.find_element_by_xpath('//*[@id="app"]/div[2]/div[4]/div[2]/div/div[1]')
     btn1.click()
     time.sleep(1)
     windows = driver.current_window_handle #定位当前页面句柄
