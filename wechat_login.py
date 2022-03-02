@@ -125,7 +125,7 @@ def crawl_url(driver, file, status):
                 return status
             for result in result_list:
                 url = result.get_attribute('href')
-                file.write(url + '\n')
+                file.write(url + '\n') 
                 # url_list.append(url)
             if (page != 1 and len(driver.find_elements_by_xpath('//*[@class="weui-desktop-btn weui-desktop-btn_default weui-desktop-btn_mini"]')) < 2) or (page == 1 and len(driver.find_elements_by_xpath('//*[@class="weui-desktop-btn weui-desktop-btn_default weui-desktop-btn_mini"]')) < 1):
                 status['page'] = page
