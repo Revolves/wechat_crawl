@@ -16,12 +16,12 @@
         "page": 122
     },
     "讲武堂": {
-        "finish": false,
-        "page": 312
+        "finish": true,
+        "page": 445
     },
     "军报记者": {
         "finish": false,
-        "page": 1
+        "page": 91
     },
     "人民武警": {
         "finish": false,
