@@ -20,24 +20,24 @@
         "page": 445
     },
     "军报记者": {
-        "finish": false,
-        "page": 91
+        "finish": true,
+        "page": 320
     },
     "人民武警": {
-        "finish": false,
+        "finish": true,
         "page": 1
     },
     "环球军事": {
-        "finish": false,
-        "page": 1
+        "finish": true,
+        "page": 93
     },
     "蒋校长": {
-        "finish": false,
-        "page": 1
+        "finish": true,
+        "page": 35
     },
     "米尔观天下": {
         "finish": false,
-        "page": 1
+        "page": 16
     },
     "军武次位面": {
         "page": 454,
